@@ -4,10 +4,9 @@
 
 CEIA (Contextual Embedding Inversion Attack) is a novel adversarial attack method targeting BERT-based models, particularly question-answering systems. This repository contains the implementation and documentation of the CEIA method.
 
-## Files
+## File
 
 1. `CreateAttackDataset_CEIA.ipynb`: Jupyter notebook containing the implementation of the CEIA method.
-2. `Contextual Embedding Inversion Attack.pdf`: Detailed documentation of the CEIA method.
 
 ## About CEIA
 
