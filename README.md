@@ -43,6 +43,7 @@ For a detailed explanation of the CEIA method, including its theoretical backgro
 ## Citation
 
 If you use this method in your research, please cite:
+
 Sarikaya, F. (2024). Contextual Embedding Inversion Attack (CEIA): A Novel Adversarial Method Targeting BERT Models. Zenodo. https://doi.org/10.5281/zenodo.13869177
 
 ## Contact
