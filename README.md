@@ -39,7 +39,7 @@ To use the CEIA method:
 
 ## Documentation
 
-For a detailed explanation of the CEIA method, including its theoretical background and potential applications, please refer to `Contextual Embedding Inversion Attack.pdf`.
+For a detailed explanation of the CEIA method, including its theoretical background and potential applications, please refer to https://doi.org/10.5281/zenodo.13869177 
 
 ## Citation
 
